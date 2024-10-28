@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            padding: 20px;
-            text-align: center;
-        }
-        h1 {
-            color: #2c3e50;
-        }
-        a {
-            color: #2980b9;
-            text-decoration: none;
-        }
-    </style>
 </head>
 <body>
     <h1>Hello, I'm Your Name!</h1>
